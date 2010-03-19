@@ -1,5 +1,31 @@
 == 3 Poster ==
 
-1) riproducibilità scientifca (condivisione tool, informatici e scienziati lavorano assieme, strumento collaborativo (workflow), possibilità gruppi di ricerca separati, condivisione risorse di calcolo)
-2) galaxy
-3) gpgpu e applicazione a DTW
+1) riproducibilità scientifca (?)
+   - condivisione tool
+   - informatici e scienziati lavorano assieme
+   - strumento collaborativo (workflow)
+   - possibilità gruppi di ricerca separati
+   - condivisione risorse di calcolo
+
+2) Galaxy
+   - Introduzione ("storia" di Galaxy)
+   - vantaggi di una piattaforma web
+   Immagini:
+   - Screenshot di Galaxy ?
+   - grafico carino ?
+
+3a) gpgpu
+   - Cos'è
+   - Perchè
+   Immagini:
+   - comparazione core (inserita nella relazione)
+   - screenshot di una demo Nvidia che salta all'occhio
+     (colorata! tipo palline)
+
+3b) applicazione GPGPU alla DTW
+   - cos'è la DTW
+   - cosa significa parallelizzare e come abbiamo fatto con la DTW
+   - comparazione velocità CPU/GPU
+   Immagini:
+   - grafico upscaling CPU/GPU
+   - immagine DTW da presentazione WV o relazione
