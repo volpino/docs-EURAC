@@ -50,4 +50,34 @@ idea 2
 
 9. Esempi
 
-10. Strumenti 
+10. Strumenti
+
+
+merging idea 1 e 2
+
+01) Titolo - partecipanti
+fare una cosa tipo la prima pagina della relazione
+loghi di galaxy python ecc? boh!
+
+02) Problema di fondo
+spiegare sinteticamente (a punti) i problemi che ci hanno portato
+a realizzare questo progetto (tipo intro della relazione)
+    - problema scientifico (grandi quantità di dati prodotte ma no strumenti di elaborazione)
+    - problema tecnologico (elaborazione di grandi quantità di dati)
+
+03) Suddivisione del problema e conseguenti obiettivi che ci siamo posti
+
+04) Cos'è Galaxy (http://www.rps.psu.edu/indepth/galaxy.html)
+
+05) GPGPU / CUDA
+
+06) Analisi di serie temporali e DTW
+
+07) Implementazione dei tools in Galaxy
+
+08) In cosa consiste il nostro progetto (con foto di krk)
+fare un diagramma di flusso tipo slide 8/19/36 della presentazione di WV
+
+09) Strumenti utilizzati (tutto open e collaborazione online)
+
+10) Risultati
